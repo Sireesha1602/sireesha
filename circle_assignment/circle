@@ -1,0 +1,25 @@
+
+
+\title{\textbf{\\Assignment on line}}
+\author{Sireesha Abbavaram - FWC22060}
+\begin{document}
+\maketitle
+
+
+\section{Question}\vspace{2mm}
+\textbf{\textit{Find the centre of the circle passing through the point (0,1) and touching the curve y=x^2 at the point (2,4).}
+\vspace{5mm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.35]{circle.png}
+\centering
+\end{figure}
+
+
+\section{Solution}
+\raggedright
+\vspace{0.25cm}
+
+Let the centre of the circle be O=(h,k).
+\vspace{2mm}
